@@ -1,0 +1,12 @@
+Event_Type,User,Source_IP,Timestamp,Threat,Severity,Why
+Malware detection,alice,198.51.100.42,2025-07-03 04:19:14,,Medium,EDR/AV alert in logs
+Malware detection,alice,192.168.1.101,2025-07-03 04:29:14,,Medium,EDR/AV alert in logs
+Malware detection,alice,172.16.0.3,2025-07-03 04:41:14,,Medium,EDR/AV alert in logs
+Malware detection,bob,203.0.113.77,2025-07-03 05:06:14,,Medium,EDR/AV alert in logs
+Malware detection,eve,192.168.1.101,2025-07-03 05:30:14,,Medium,EDR/AV alert in logs
+Malware detection,eve,203.0.113.77,2025-07-03 05:42:14,,Medium,EDR/AV alert in logs
+Malware detection,david,172.16.0.3,2025-07-03 05:45:14,,Medium,EDR/AV alert in logs
+Malware detection,bob,10.0.0.5,2025-07-03 05:48:14,,Medium,EDR/AV alert in logs
+Malware detection,charlie,172.16.0.3,2025-07-03 07:45:14,,Medium,EDR/AV alert in logs
+Malware detection,eve,10.0.0.5,2025-07-03 07:51:14,,Medium,EDR/AV alert in logs
+Malware detection,bob,172.16.0.3,2025-07-03 09:10:14,,Medium,EDR/AV alert in logs
